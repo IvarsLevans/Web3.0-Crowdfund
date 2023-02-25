@@ -19,7 +19,7 @@ The Web 3.0 Crowdfund is a decentralized crowdfunding platform that utilizes blo
 
 ## Deployment
 
-## 🔵 Client - Getting Started
+### 🔵 Client - Getting Started
 Create a project using this example:
 
 ```bash
@@ -34,7 +34,7 @@ Deploy a copy of your application to IPFS using the following command:
 yarn deploy
 ```
 
-## 🟡 Web3 - Getting Started
+### 🟡 Web3 - Getting Started
 
 Create a project using this example:
 
