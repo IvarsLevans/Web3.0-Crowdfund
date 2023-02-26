@@ -9,7 +9,7 @@
 </p>
 
 ## Description
-The Web 3.0 Crowdfund is a decentralized crowdfunding platform that utilizes blockchain technology to provide a transparent and secure platform for individuals and organizations to raise funds for their projects. This platform allows for crowdfunding campaigns to be created, managed, and funded using cryptocurrencies, without the need for intermediaries or central authorities.
+VeFund is a decentralized crowdfunding platform that utilizes blockchain technology to provide a transparent and secure platform for individuals and organizations to raise funds for their projects. This platform allows for crowdfunding campaigns to be created, managed, and funded using cryptocurrencies, without the need for intermediaries or central authorities.
 
 ## Technology Stack
 - [React](https://reactjs.org/)
